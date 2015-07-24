@@ -5,3 +5,14 @@ div {
 }
 
 /* Code Under This Line */
+.half {
+  width: 50vw;
+}
+
+.fourth {
+  width: 25vw;
+}
+
+.eighth {
+  width: 12.5vw;
+}
