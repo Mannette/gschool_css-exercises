@@ -19,3 +19,18 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.circle.full {
+  background: black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.circle.outline {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  text-align: center;
+  line-height: 100px;
+}
