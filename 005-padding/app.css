@@ -21,7 +21,7 @@ section {
 
 /* Code Under This Line */
 
-div {
+.foo {
   padding: 20px;
 }
 
