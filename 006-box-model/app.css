@@ -16,3 +16,32 @@ img {
   #222
   #7BBADE
 */
+
+.a {
+  border: solid #FFED5D;
+  background-color: #FFED5D;
+  margin: 0 25% 0 25%;
+  border-width: 20px 10px 10px 10px;
+}
+
+.b {
+  border: solid #FF7050;
+  background-color: #FF7050;
+  border-width: 20px 10px 10px 10px;
+}
+
+.c {
+  border: solid #222;
+  background-color: #222;
+  border-width: 20px 10px 10px 10px;
+}
+
+.d {
+  border: solid #7BBADE;
+  background-color: #7BBADE;
+  border-width: 20px 10px 10px 10px;
+}
+
+div {
+  padding: 0 20px 20px 20px;
+}
