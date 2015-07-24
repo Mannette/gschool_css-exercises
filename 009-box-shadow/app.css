@@ -14,3 +14,8 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.box.subtle {
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1),
+  -2px -2px 4px purple,
+   0 8px 6px -6px blue;
+}
